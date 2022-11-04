@@ -1,0 +1,3 @@
+[submodule "event-management-dApp-subgraph"]
+	path = event-management-dApp-subgraph
+	url = https://github.com/Abdul-Hafeez-Galib/event-management-dApp-subgraph.git
