@@ -1,5 +1,5 @@
 # event-management-dApp
-A WEB3 version of an Event Management app like Eventbrite.
+The WEB3 version of an Event Management app like Eventbrite where we can host events and attend events.
 
 ### **Deployed Link:**
 https://event-management-d-app.vercel.app/
