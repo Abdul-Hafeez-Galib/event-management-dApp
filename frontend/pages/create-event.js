@@ -34,6 +34,8 @@ export default function CreateEvent() {
       image: getRandomImage(),
     };
 
+    console.log(body.image)
+
     try {
       const response = await fetch("/api/store-event-data", {
         method: "POST",
